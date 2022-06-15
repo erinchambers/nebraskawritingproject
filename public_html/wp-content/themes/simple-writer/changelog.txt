@@ -1,0 +1,19 @@
+= Version 1.0.0 =
+* Initial Release
+
+= Version 1.0.1 =
+* Fixed coding issues.
+
+= Version 1.0.2 =
+* New Customizer options were added.
+* Fixed coding issues.
+
+= Version 1.0.3 =
+* Fixed coding issues.
+
+= Version 1.0.4 =
+* Fixed coding issues.
+
+= Version 1.0.5 =
+* Fixed coding issues.
+* Customizer updated.
